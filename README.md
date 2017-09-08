@@ -28,10 +28,11 @@
 @[gslides](1ubLv7nNEZQc-J4wFlSdpr8qXauTuF8q6KKBAP2os6Wk)
 
 ## Notebooks
-
+[Code Demonstration](https://github.com/commit-live-students/day03-inferential-statistics/blob/master/notebooks/day03_demo.ipynb)
 
 ## Assignments
 
+# TO BE UPDATED!!!!
 
 ## Post Reads
 1. http://blog.minitab.com/blog/adventures-in-statistics-2/how-to-correctly-interpret-p-values
